@@ -62,5 +62,4 @@ O projeto inclui configurações e boas práticas recomendadas para ambientes de
 ```npm test```
 
 
-
 Este projeto serve como um guia abrangente e exemplar para desenvolvedores interessados em criar aplicações Node.js usando Typescript, Nest.js e seguindo princípios de arquitetura limpa e DDD.

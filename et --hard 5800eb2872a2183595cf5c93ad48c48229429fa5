@@ -1,0 +1,41 @@
+[33mcommit 1a53601900c4fa58db85d88cf85aff88490136d3[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m)[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Fri Jan 12 10:20:24 2024 -0300
+
+    docs: :memo: Adiconando readme Ao Projeto
+    
+    Adiconando Readme Comas infomaçãoe : \n - Tecnologias utilizadas \n - Tecnologias Utilizadas
+
+[33mcommit 8506eedb6502755b0d945d5a34ec49528670343f[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Fri Jan 12 13:17:34 2024 +0000
+
+    docs: :memo: Adicionando Readme Ao projeto
+    
+    Adicionando uma descrição dos conceitos utilizados no projeto \n Adicionando descrição sobre as tecnologias utilizadas no projeto
+
+[33mcommit c9f8a7812b9763593195a319235fe448c11e1e5e[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Thu Jan 11 10:07:28 2024 -0300
+
+    feat: - Adicionando objeto de valor  abstrato  \n --Adicionando um objeto de valor para id
+
+[33mcommit 5800eb2872a2183595cf5c93ad48c48229429fa5[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Wed Jan 10 13:52:28 2024 +0000
+
+    feat: :art: Construindo Objetos de valores
+    
+    Adicionando Objetos de valores do uuid \n adicionando testes para o Objeto de valode de Uiid
+
+[33mcommit 21aa6119768e1ee42b0df2acd38cc7e40fbee300[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Tue Jan 9 09:39:17 2024 -0300
+
+    Adicionando git Ignore e configurando Jest
+
+[33mcommit 1db01b48a7000ff28b9e4d8b64ecc42a9f6320df[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Matheus Andrade <matheusbrau12@gmail.com>
+Date:   Mon Jan 8 17:28:38 2024 -0300
+
+    First Commit
