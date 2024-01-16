@@ -9,7 +9,7 @@ Este projeto é um exemplo de aplicação Node.js desenvolvida em Typescript uti
 - Node.js
 - JEST (Testes de Unidade, Integração e E2E)
 - RabbitMQ (Mensageria)
-- GPC Cloud Storage (Integração)
+- GCP Cloud Storage (Integração)
 - Integração Contínua
 
 ## Estrutura do Projeto
