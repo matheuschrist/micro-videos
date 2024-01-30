@@ -1,7 +1,7 @@
 # Projeto Typescript com Nest.js e Arquitetura Limpa
 
 ## Descrição
-Este projeto é um exemplo de aplicação Node.js desenvolvida em Typescript utilizando o framework Nest.js. Ele segue os princípios da arquitetura limpa, adotando conceitos do Domain-Driven Design (DDD) e boas práticas do Nest.js. O projeto foi desenvolvido como parte do curso "Dev Full Circle 3", abordando tópicos como microsserviços, API REST, testes automatizados, mensageria com RabbitMQ, integração com GPC Cloud Storage, integração contínua, e boas práticas para ambientes de desenvolvimento e produção.
+Este projeto é um exemplo de aplicação Node.js desenvolvida em Typescript utilizando o framework Nest.js. Ele segue os princípios da arquitetura limpa, adotando conceitos do Domain-Driven Design (DDD) e boas práticas do Nest.js. O projeto foi desenvolvido como parte do curso "Dev Full Cicle 3", abordando tópicos como microsserviços, API REST, testes automatizados, mensageria com RabbitMQ, integração com GPC Cloud Storage, integração contínua, e boas práticas para ambientes de desenvolvimento e produção.
 
 ## Tecnologias Utilizadas
 - Typescript
@@ -60,7 +60,6 @@ O projeto inclui configurações e boas práticas recomendadas para ambientes de
 3. Execute os testes:
 
 ```npm test```
-
 
 
 Este projeto serve como um guia abrangente e exemplar para desenvolvedores interessados em criar aplicações Node.js usando Typescript, Nest.js e seguindo princípios de arquitetura limpa e DDD.
