@@ -1,4 +1,4 @@
-.history/
+.docker/zsh/history/
 node_modules/
 tsconfig.tsbuildinfo 
 .docker/
